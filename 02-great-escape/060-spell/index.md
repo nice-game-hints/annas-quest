@@ -1,5 +1,5 @@
 ---
-title: The spell
+title: The protection spell
 keywords: feather, protection, spell, amulet, moon
 ---
 
@@ -10,10 +10,10 @@ The mirror will tell you.
 
 # Tell me.
 You need:
- - [Raven's feather](010-feather.md)
+ - [Raven's feather](010-feather/index.md)
  - [A strand of hair from the one you need protection from](020-hair.md)
  - [A blessing from a dead over the cauldron they are in](030-blessing.md)
  - [An amulet charged by the moon](040-amulet.md)
 
 # I have those
-Now [heat the cauldron](050-heat.md) and dip the amulet in there.
+Add the feather and the hair into the cauldron. Now [heat the cauldron](050-heat.md) and dip the charged amulet in there.
