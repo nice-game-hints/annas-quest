@@ -1,0 +1,179 @@
+ITEMS:
+ - Torn bedsheet from the alley (use telekinesis)
+  - Also clothesline
+ - Needle found from the haystack
+ - Stringy Vines from the woods, use scissors
+
+
+CRAFTED ITEMS:
+
+
+
+Spell objects:
+ - Orb of great power. It can be found from the woods beyond the mill, in the depths of a lake protected by Weisse Frauen. Ghostly spirits that haunt the waters. Whatever you do, don't go into the water.
+ - An Enchanted rose, from the tops of Glass Mountain. The tale goes that a dragon once gave passage to those that were worthy. You should speak to the minister of the church. He would know more on the legend.
+  - Ask only for the rose
+ - Spell book from Winfriede's tower. The old lady took it!
+
+PEOPLE:
+Theodor the minister
+
+Mephiposteles, the dark lord
+
+HINTS:
+Church:
+ The painting of the man:
+  He is Philipp Voigt. Summoned the red dragon to save all. He is in the picture. His daughter Jannike is the Queen who just vanished a year ago.
+
+PUZZLES:
+
+The church door to the bell tower:
+
+Find a lakeside home for the musicians:
+ - The same lake where is the orb
+
+Everything in the shop is too expensive:
+ - Buy you have your diamond, give it to the shopkeeper
+
+Getting into the mill:
+ - The hatch door?
+ - Talk to Gottfried about the mill
+  - Now the witch is at home
+
+ - Getting out of the cage
+  - Ask Hansel about the bump
+   - He kicked the support beam
+    - Use telekinesis on the support beam
+     - Needs more oomph
+      - Take the hammer (with telekinesis)
+       - Hit the support beam, the keys fall on top of the trap door
+        - Use telekinesis on the trap door mechanism to open the trap door and get the keys
+         -  Open the hatch door with telekinesis
+ - Use telekinesis on the trapdoor mechanism to break it
+
+Trapping the witch (Getting rid of the witch):
+ - The trap mechanism is broken
+  - Sit on the stool
+   - She will stomp on the trapdoor
+  - Go into the basement and attach the clothesline to the trap mechanism
+   - Go back and sit
+    - She will stomp, again
+     - Pull the rope
+
+The lamp posts at the Alley:
+ - Use telekinesis to bend them
+ - Now you can light them
+  - The dragon can light them
+   - It should eat, what was it?
+    - Something dry and flammable
+     - The coals from the inn
+
+The church:
+ - Some detective mystery in the church
+ - The canldes say:
+   - "To keep lit the light of the red dragon, and help her hold back the darkness."
+
+The organ:
+ - There should be hidden message
+  - Need more light
+   - Look at the right window, symbols
+    - Light up the lamp post
+ - Symbols!
+  - What to play?
+   - What the patterns mean?
+    - Go look for the grove Theodore mentioned
+     - It is the tree stump in the forest. Look at it.
+      - Symbols!
+       - Play the correct notes to open the door
+
+Taming the dragon:
+ - It is missing its child
+  - Give the baby dragon to it
+
+How to get to the Glasstop mountain:
+ - With dragon
+
+How to get the rose from the crooked house:
+ - Annoy the elder
+  - Knock on door
+  - Open the window with telekinesis
+   - he will see you there...
+    - But not behind the rocks
+     - Stay hidden and trap him with the window
+
+Getting the spell book:
+ - First, get rid of the witch (living in the mill)
+ - It is protected by a spell
+  - Go ask the sorceress about protection spells
+   - It is a chant-protected spell, chant to set it, chant to break it
+    - You have to know the chant used to set to chant it free
+  - You can steer the discussion to find out the spell chant from the witch
+   - I'm on your side, you know
+   - *sigh* You're right... No one could ever be as great witch as you are...
+   - I've dabbled in protection spells a little bit. Do you think I could figure it out?
+   - Do you remember the spell you used to protect the book?
+  - Go tell the chant to the Sorceress
+
+Sad man's (Gottfried's) son (Hansel) is missing:
+ - Can be found from the Mill (the Witch)
+
+Find your way in the woods:
+ - You would need a map
+ - Talk about this in the Inn
+  - The blacksmith is lost in the woods
+  - Gil would know his way there
+   - But he is drinking beer
+    - That the inn keeper is pouring from the tap
+  - Use telekinetic powers on the pipes to switch beer and water
+  - Ask the bartender to pour a drink to Gil
+   - He is not buying it and catches Anna's idea
+  - Pipe in the fountain? It is connected into the tavern.
+   - It pumps water from the tavern water pipe
+    - Change the pipes so that it pumps beer instead of water
+
+The blacksmith is hunting the beast in the woods:
+ - Talk to his daughter
+  - She tells about the fruit stealing beast
+   - It is the fox in the forest!
+    - Go talk to it. It will return the smith back.
+
+How to get the stringy vines:
+ - use scissors
+
+Repairing the bedsheet:
+ - You need:
+  - Needle (from the haystack)
+  - Thread (Stringy Vines from the woods, use scissors)
+ - Combine them for needle and thread
+  - Sew the bedsheet
+
+At the lake:
+ - Hans was looking for it, also
+ - Amber Orb is Weisse Freuen treasure
+  - The Weisse Freuen liked to listen to music
+   - You should find a stringed instrument
+   - Or musicians
+    - Get their home back and they will perform
+    - Well, you got a violin, at least
+  - Anna is not a good violinist
+
+Getting better with the violin:
+ - Or getting a better violin
+  - From the shop
+   - Use the brain on the monkey to distract himt
+    - Use the old magical violin on the Freun
+
+Fixing the lantern:
+ - Maybe the blacksmith would help
+  - Or his daughter
+   - But she is busy
+
+Free the house:
+ - They are bullies.
+ - They should be scared out of the house.
+  - Make a ghost costume
+   - ...den he came out a white and glowing ghost
+   - glowing eyes roaming around
+  - Get a lantern and fix it
+   - You get a fake ghost
+    - Use it on the house
