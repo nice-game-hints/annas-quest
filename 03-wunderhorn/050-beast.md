@@ -23,6 +23,6 @@ I eats all the fruit. And that wild creature has "gnashing teeth and long, razor
 # No?
 In the forest, before you came to Wunderhorn.
 
-# Oh
+# Oh!
 Go back to the forest and talk to the bush. The fox appears. Talk about the beast. You have to have had discussion with the smith's daughter about the beast before getting anywhere with Reynard. Say that they're scared of him. Ask him a favor.
 
