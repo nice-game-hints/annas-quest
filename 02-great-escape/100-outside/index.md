@@ -12,7 +12,7 @@ How about upstairs?
 Maybe the access to the roof is closed down.
 
 # How to find it?
-Maybe it would help if you would get access to the blueprints of the house. ^[ Get into the [safe](../020-safe/index.md). ]
+Maybe it would help if you would get access to the blueprints of the house. ^[ Get into the [safe](../050-safe/index.md). ]
 
 # I have the blueprints!
 Look at them, then!

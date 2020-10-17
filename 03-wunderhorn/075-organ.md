@@ -12,7 +12,7 @@ But you are just guessing. You need to make some sense into this.
 The organ is quite dark. Maybe you could get more light into it.
 
 # Light?
-Go and [light up the lamp post at the alley](072-lamp-post.md).
+Go and [light up the lamp post at the alley](078-lamp-post.md).
 
 # I got...
 ...symbols. Right. Now we need to find what symbols to play.

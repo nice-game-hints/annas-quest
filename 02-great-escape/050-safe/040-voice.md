@@ -12,7 +12,7 @@ You mean, how to _record_ it?
 There must be recorder laying somewhere here.
 
 # Where?
-Did you look at [in the box](../050-box.md) at the bedroom?
+Did you look at [in the box](../020-box.md) at the bedroom?
 
 # Found it!
 You now have a recorder. But it is broken. [Fix it.](../040-recorder.md)

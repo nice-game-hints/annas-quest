@@ -3,7 +3,7 @@ title: Fixing the recorder
 keywords: voice, witch, speaker, recorder, safe
 ---
 
-The recorder you found from [the box](050-box.md) is broken.
+The recorder you found from [the box](020-box.md) is broken.
 
 # How to fix it?
 You would need some spare parts.

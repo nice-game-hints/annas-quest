@@ -24,7 +24,7 @@ Wouldn't it be nicer if the symbols were more light up?
 Or the whole window would have more light. Go to the back alley to find the lamp post.
 
 # What to do with it?
-[Light it up.](075-lamp-post.md)
+[Light it up.](078-lamp-post.md)
 
 # It is lit
 What is it lighting? 

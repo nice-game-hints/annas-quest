@@ -3,7 +3,7 @@ title: Raven's feather
 keywords: raven, roof, chimney, bird
 ---
 
-Did you climb up to [the roof](../100-outside/index.md)?
+Did you climb up to [the roof](../../100-outside/index.md)?
 
 # Yes, I am in the chimney
 There is the raven!

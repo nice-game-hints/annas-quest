@@ -6,7 +6,7 @@ keywords: mill, witch, gottfried, tavern, hansel
 First you need to get into the mill.
 
 # How?
-Talk to Gottfried. He will be in the tavern after you have visited [the woods](030-woods.md).
+Talk to Gottfried. He will be in the tavern after you have visited [the woods](../030-woods.md).
 
 # He is there, and sad
 Why is he sad though?

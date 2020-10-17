@@ -12,4 +12,4 @@ Who indeed. Did you talk about this topic in the inn?
 Gil would be perfect guide. But he is drinking beer. And not leaving the place.
 
 # What to do?
-[Cut the beer.](060-beer.md)
+[Cut the beer.](040-beer.md)
