@@ -12,4 +12,4 @@ Don't you have anything you could offer to him.
 You have the diamond. Give it to the shopkeeper.
 
 # A broken lantern?
-[Fix it.](tbd)
+[Fix it.](085-lantern.md)
