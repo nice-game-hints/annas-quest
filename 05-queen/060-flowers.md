@@ -12,10 +12,10 @@ There are flower in princess' bedroom. You just have to [get rid of the princess
 ...they are plastic flowers! Then they don't suffice.
 
 # What then?
-I would suggest you pursue other goals, first. Go explore the [storage room](030-storage-room/index.md).
+I would suggest you pursue other goals, first. Go explore the [storage room](030-storage/index.md).
 
 # I did all that
-You [freed Queen Jannike](030-storage-room/040-queen.md)?
+You [freed Queen Jannike](030-storage/040-queen.md)?
 
 # I did
 Well, the flowers are right next to her. You can just take them.

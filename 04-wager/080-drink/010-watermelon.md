@@ -12,7 +12,7 @@ What is the tool to chop all kinds of stuff?
 The guillotine, of course.
 
 # It is too dull
-[Sharpen it](067-sharp.md)
+[Sharpen it](../067-sharp.md)
 
 # It is sharp now
 Cut the watermelon in the guillotine.

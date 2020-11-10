@@ -6,7 +6,7 @@ keywords: devil, thief, story, wizard
 If 'better the devil you know,' they say, then tell me, Anna... what do you know of the Devil?
 
 # Yeah, what do I know?
-Nothing, yet. You would need to find someone more knowing. He is in the cell [behind the sick troll](100-sicktroll.md).
+Nothing, yet. You would need to find someone more knowing. He is in the cell [behind the sick troll](../100-sicktroll.md).
 
 # I am there
 It is the Wizard of Wunderhorn! Ask him about the Devil.
