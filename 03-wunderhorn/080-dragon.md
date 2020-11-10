@@ -12,5 +12,5 @@ Ring the bell. ^[ Ring the bell with your telekinetic powers. ]
 What would cause that? Do you think she is a... mother dragon?
 
 # Mother?
-Give her the baby bag. Give her the baby dragon.
+Give her the baby back. Give her the baby dragon.
 
