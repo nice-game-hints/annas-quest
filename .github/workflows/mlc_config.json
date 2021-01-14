@@ -1,9 +1,9 @@
 {
   "ignorePatterns": [
-		{
-			"pattern": "^http[s]{0,1}://"
-		}
-	],
+    {
+      "pattern": "^http[s]{0,1}://"
+    }
+  ],
   "replacementPatterns": [
     {
       "pattern": "^/",
